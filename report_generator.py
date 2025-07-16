@@ -1,5 +1,7 @@
+__author__ = "Emilio Petrozzi"
+
 """
-Automated Report Generation for Unemployment Analysis
+Automated Report Generation for Unemployment Analysis - Authored by Emilio Petrozzi
 - Compiles analytical findings into structured Markdown
 - Embeds data citations and visualizations
 """

@@ -1,5 +1,7 @@
+__author__ = "Emilio Petrozzi"
+
 """
-Unemployment Root Cause Analysis Framework
+Unemployment Root Cause Analysis Framework - Authored by Emilio Petrozzi
 - Implements diagnostic methodologies for:
     - Structural/cyclical/frictional decomposition
     - Sectoral analysis

@@ -1,4 +1,4 @@
-# Full Employment Policy Blueprint
+# Full Employment Policy Blueprint - Authored by Emilio Petrozzi
 
 ## 1. Executive Summary
 Italy faces rising unemployment across key demographics:

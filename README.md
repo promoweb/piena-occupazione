@@ -65,4 +65,7 @@ print(results.summary())
 MIT License - see [LICENSE](LICENSE) file for details
 
 ## Contact
-info@mrtux.it | [Emilio Petrozzi | mrtux.it](https://www.mrtux.it)
+Primary Contact: Emilio Petrozzi - info@mrtux.it | [mrtux.it](https://www.mrtux.it)
+
+## Author
+Emilio Petrozzi - Project Creator and Maintainer

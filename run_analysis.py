@@ -1,5 +1,7 @@
+__author__ = "Emilio Petrozzi"
+
 """
-Unemployment Analysis Workflow Driver
+Unemployment Analysis Workflow Driver - Authored by Emilio Petrozzi
 - Orchestrates data collection, analysis, and reporting
 """
 import pandas as pd

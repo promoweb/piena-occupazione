@@ -1,5 +1,7 @@
+__author__ = "Emilio Petrozzi"
+
 """
-Mock Data Generation Module
+Mock Data Generation Module - Authored by Emilio Petrozzi
 - Generates synthetic labor market indicators
 - Maintains same data structure as original API
 """
