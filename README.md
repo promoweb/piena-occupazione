@@ -65,4 +65,4 @@ print(results.summary())
 MIT License - see [LICENSE](LICENSE) file for details
 
 ## Contact
-info@mrtux.it | [Project Website](https://www.mrtux.it)
+info@mrtux.it | [Emilio Petrozzi | mrtux.it](https://www.mrtux.it)
